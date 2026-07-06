@@ -96,17 +96,8 @@ This project successfully:
 
 ---
 
-##  Future Improvements
 
-- Compare multiple clustering algorithms (DBSCAN, Agglomerative Clustering, Gaussian Mixture Models).
-- Evaluate clusters using Silhouette Score and Davies-Bouldin Index.
-- Use PCA or t-SNE for cluster visualization.
-- Build an interactive dashboard using Streamlit or Power BI.
-- Deploy the project as a web application.
-
----
-
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning & Preprocessing
 - Feature Engineering
@@ -118,10 +109,10 @@ This project successfully:
 
 ---
 
-## ▶️ Getting Started
+##  Getting Started
 
 ```bash
-git clone https://github.com/yourusername/SmartCart-Customer-Segmentation.git
+https://github.com/Sujan-Adhikari875/Smart-cart-customer-segmentation-.git
 
 pip install -r requirements.txt
 
