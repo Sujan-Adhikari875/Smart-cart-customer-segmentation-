@@ -1,4 +1,4 @@
-# Smart-cart-customer-segmentation
+
 
 # 🛒 SmartCart Customer Segmentation
 
@@ -6,7 +6,7 @@ An end-to-end **Machine Learning** project that segments SmartCart customers bas
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Clean and preprocess raw customer data.
 - Perform feature engineering to create meaningful variables.
@@ -16,7 +16,7 @@ An end-to-end **Machine Learning** project that segments SmartCart customers bas
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains customer information such as:
 
@@ -29,7 +29,7 @@ The dataset contains customer information such as:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. **Data Cleaning**
    - Handled missing values
@@ -57,7 +57,7 @@ The dataset contains customer information such as:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 SmartCart-Customer-Segmentation/
@@ -73,7 +73,7 @@ SmartCart-Customer-Segmentation/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -85,7 +85,7 @@ SmartCart-Customer-Segmentation/
 
 ---
 
-## 📈 Results
+##  Results
 
 This project successfully:
 
@@ -96,7 +96,7 @@ This project successfully:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Compare multiple clustering algorithms (DBSCAN, Agglomerative Clustering, Gaussian Mixture Models).
 - Evaluate clusters using Silhouette Score and Davies-Bouldin Index.
@@ -123,8 +123,6 @@ This project successfully:
 ```bash
 git clone https://github.com/yourusername/SmartCart-Customer-Segmentation.git
 
-cd SmartCart-Customer-Segmentation
-
 pip install -r requirements.txt
 
 jupyter notebook
@@ -138,4 +136,4 @@ Open **`Smartcart.ipynb`** and run all cells to reproduce the analysis.
 
 This project was developed as part of a machine learning portfolio to demonstrate practical skills in data preprocessing, customer segmentation, and business analytics.
 
-⭐ *If you found this project useful, consider giving it a star on GitHub!*
+
